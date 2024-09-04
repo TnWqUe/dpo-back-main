@@ -1,7 +1,4 @@
 package ru.mpei.fqw.client;
-
-import lombok.Getter;
-import lombok.Setter;
 import java.util.stream.IntStream;
 
 
